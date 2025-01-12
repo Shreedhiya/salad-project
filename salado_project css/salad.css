@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+nav{
+    background-color: green;
+    color: white;
+    padding: 15px;
+   
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 70%;
+}
+h1{
+    margin-left: 20px;
+}
+li{
+    color: yellow;
+    cursor: pointer;
+
+}
+li:hover{
+    color: aliceblue;
+
+}
+input{
+    width:60%;
+    padding: 20px;
+}
+.search{
+    padding: 20px;
+    text-align: center;
+    border: 20px;
+    background-color: black;
+    border-style: dashed;
+    font-size: 20px;
+}
+.types{
+    padding: 5px;
+    text-align: center;
+    text-size-adjust: 20px;
+}
+.box{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 320px;
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+.saladoo{
+    text-align: center;
+
+}
+.us{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
